@@ -1,0 +1,2 @@
+vkbottle==3.0.2
+peewee==3.13.3
